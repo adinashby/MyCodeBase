@@ -1,1 +1,5 @@
-This is a new file.
+git init 
+git add somefile 
+git commit -m "initial commit"
+git status 
+git log 
